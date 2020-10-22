@@ -15,7 +15,7 @@
       "zip": "58100"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://github.com/hakimimastor98/My-Portfolio",
     "social":[
       {
         "name":"facebook",
@@ -60,24 +60,24 @@
         "description":"I was highly active with student activities under Software Engineering Student Club and outside communities (Devcon) and profersional organisation (IEEE Malaysia Section). I also achieved dean awards for 4 semesters and awarded as IEEE Open Day Malaysia Ambassador 2019."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Penang Matriculation College",
+        "degree":"Pure Science Module 1",
+        "graduated":"May 2016",
+        "description":"I took pure science stream, biology, physics, chemistry and mathematics."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Star Media Group",
+        "title":"Mobile Developer (Android)",
+        "years":"October 2020 - Present",
+        "description":"Develop and deliver new mobile applications, improve upon and optimize existing applications, and provide technical support as needed in resolving issues on new and existing applications."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Malayan Banking Berhad (Maybank)",
+        "title":"Intern - IT Analayst",
+        "years":"February 2020 - August 2020",
+        "description":"Using Informartica ETL and Oracle Software for MFRS9 related projects, perform enhancement and testing (mainly on SIT and UAT) using PL/SQL and UNIX script. Perform troubleshooting task, to identified data issue or rule configuration issue for Maybank Core Banking and data from Malaysia, Singapore and International data warehouse"
       }
     ],
     "skills":[
@@ -135,22 +135,22 @@
         "url":"https://github.com/hakimimastor98/UPSI-Surau-Mana-App"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"KPD - Elements",
+        "category":"Educational android application for high school students in chemistry",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://play.google.com/store/apps/details?id=com.kimi.kpd"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"MEE - Elementt",
+        "category":"Educational android application for high school students in chemistry",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/hakimimastor98/Elementt"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"POLAND CAN INTO SPACE",
+        "category":"2D game",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://play.google.com/store/apps/details?id=pl.ohanaentertainment.pcis"
       }
     ]
   },
