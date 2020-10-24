@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Muhammad Hakimi Bin mastor",
+    "name":"Muhammad Hakimi Bin Mastor",
     "occupation":"Android Developer",
     "description":"add later",
     "image":"profilepic.jpg",
-    "bio":"meow",
+    "bio":"A passionate graduate in Software Engineering and IT related fields. Eager to acquire more knowledge and experience in Android Development, Internet of Things and Software Engineering in general. I have provided training for teachers in IEEE-TISP KPM Initiatives, published several android application in Google Play Store. (2k+ downloads since Aug 2018), won several awards including at IPITEX Bangkok 2020 and actively conducted and participated various events from university level under Software Engineering Student Club up to International Competitions. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hakimimastor@gmail.com",
     "phone": "+60 1137 111871",
@@ -157,12 +157,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
