@@ -1,7 +1,7 @@
 {
   "name": "resume",
-  "version": "1.5.0",
-  "homepage": "https://hakimimastor.com",
+  "version": "1.6.0",
+  "homepage": "http://hakimimastor.name.my",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
